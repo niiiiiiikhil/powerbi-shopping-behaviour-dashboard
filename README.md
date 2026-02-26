@@ -46,4 +46,3 @@ This dashboard helps businesses:
 ## 📂 Files Included
 - Shopping_Behaviour_Dashboard.pbix
 - shopping-dashboard-preview.png
-- 
